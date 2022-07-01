@@ -18,6 +18,3 @@ Odin has not developed VueJS apps in a few years, this is a refresher course bui
 Generic website build  
 API Key Interaction (To be Determined by what I want to do!)  
 ```
-
-### View Live;
-See [Odin on Heroku](http://www.odin-love.herokuapp.com).
