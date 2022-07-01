@@ -1,29 +1,23 @@
-# odin
+# odin Love
 
-## Project setup
+## Project Details
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+This project utilizes;  
+VueJS Framework  
+Heroku Deployment  
+GitHub Repo  
 ```
 
-### Compiles and minifies for production
+### Purpose of Project
 ```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
+Odin has not developed VueJS apps in a few years, this is a refresher course build!
 ```
 
-### Lints and fixes files
+### Scope of Services
 ```
-npm run lint
+Generic website build  
+API Key Interaction (To be Determined by what I want to do!)  
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### View Live;
+See [Odin on Heroku](http://www.odin-love.herokuapp.com).
