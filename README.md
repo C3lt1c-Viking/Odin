@@ -1,5 +1,8 @@
 # Odin Love
-![Code Size](https://img.shields.io/github/languages/code-size/C3lt1c-Viking/Odin)
+![Code Size](https://img.shields.io/github/languages/code-size/C3lt1c-Viking/Odin) ![Github Followers](https://img.shields.io/github/followers/C3lt1c-Viking)  ![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FC3lt1cViking) ![Twitter Followers](https://img.shields.io/twitter/follow/C3lt1cViking) ![NPM Twitter](https://img.shields.io/node/v-lts/react-twitter-embed)  
+
+![VueJS Banner](https://storage.googleapis.com/blog-images-backup/1*wFL3csJ96lQpY0IVT9SE3w.jpeg)  
+![Odin on Heroku](https://odin-love.herokuapp.com)
 
 ## Project Details
 ```
