@@ -1,4 +1,5 @@
-# odin Love
+# Odin Love
+https://img.shields.io/github/languages/code-size/C3lt1c-Viking/Odin
 
 ## Project Details
 ```
@@ -6,11 +7,7 @@ This project utilizes;
 VueJS Framework  
 Heroku Deployment  
 GitHub Repo  
-```
-
-### Purpose of Project
-```
-Odin has not developed VueJS apps in a few years, this is a refresher course build!
+Twitter API Integration
 ```
 
 ### Scope of Services
