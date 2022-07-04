@@ -1,5 +1,5 @@
 # Odin Love
-https://img.shields.io/github/languages/code-size/C3lt1c-Viking/Odin
+![Code Size](https://img.shields.io/github/languages/code-size/C3lt1c-Viking/Odin)
 
 ## Project Details
 ```
