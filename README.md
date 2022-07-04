@@ -49,10 +49,11 @@ Inside you will find;
 * Links (Github | Facebook | Twitter | Email)
 ```
 
-### Testing Purposes
+### Contact Odin
 ```
-The primary goal of this is to be able to test my adaptation to including  
-API Keys  
-Databases  
-Deployment on Heroku  
+If you would like to contact Odin, please utilize the following methods;  
+Email: odinlove90@gmail.com  
+Facebook: https://www.facebook.com/OdinLove.1990  
+Twitter: https://twitter.com/C3lt1cViking  
+Mobile: (469) 954-4923
 ```
