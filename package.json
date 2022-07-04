@@ -2,6 +2,7 @@
   "name": "odin",
   "version": "0.1.0",
   "private": true,
+  "node-pre-gyp": "0.12.0",
   "engines": {
     "node": "12.18.2"
   },
