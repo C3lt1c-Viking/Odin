@@ -16,6 +16,7 @@
       <li><a href="https://twitter.com/C3lt1cViking" style="cursor: crosshair; font-family: 'Play', sans-serif; color: #F00; font-size: 20px;" target="_blank" rel="noopener">Twitter</a></li>
       <li><a href="https://www.twitch.tv/c3lt1cviking" style="cursor: crosshair; font-family: 'Play', sans-serif; color: #F00; font-size: 20px;" target="_blank" rel="noopener">Twitch</a></li>
       <li><a href="mailto:odinlove90@gmail.com" style="cursor: crosshair; font-family: 'Play', sans-serif; color: #F00; font-size: 20px;" target="_blank" rel="noopener">Email</a></li>
+      <li style="font-family: 'Play', sans-serif; color: #F00; font-size: 20px;">Mobile: (469) 954-4923</li>
     </ul>
     <h3 style="font-family: 'Stick No Bills', sans-serif; font-size: 20px; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: #42b883; color: #000; font-size: 30px;">Projects Odin Has Worked On;</h3>
     <ul>
