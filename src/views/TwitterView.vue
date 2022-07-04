@@ -1,6 +1,6 @@
 <template>
  <div style="width: 50%; align: center; float: center; margin: 10px auto">
- <h1 style="font-family: 'Stick No Bills', sans-serif; font-size: 40px;color: #FFF; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: #42b883; text-shadow: 10px 10px 10px #000;">Odin's Twitter API Integration</h1>
+ <h1 style="font-family: 'Stick No Bills', sans-serif; font-size: 40px;color: lightblue; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: #42b883; text-shadow: 10px 10px 10px #000;">Odin's Twitter API Integration</h1>
 
   <a
    class="twitter-timeline"
