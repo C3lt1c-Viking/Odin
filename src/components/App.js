@@ -1,7 +1,7 @@
-import TwitterFeed from "./TwitterView.vue";
+import TwitterFeed from './TwitterView.vue';
 
 export default {
     install(Vue, options) {
-        Vue.component("TwitterFeed", TwitterFeed);
+      Vue.component('TwitterFeed', TwitterFeed)
     }
 }
