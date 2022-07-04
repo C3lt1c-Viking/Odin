@@ -16,7 +16,7 @@ export default {
   props: {
     src: {
       type: String,
-      default: 'https://twitter.com/VikingNation4?ref_src=twsrc%5Etfw'
+      default: 'https://twitter.com/C3lt1cViking?ref_src=twsrc%5Etfw'
     },
     dark: {
       type: Boolean,
